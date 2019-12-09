@@ -1,6 +1,6 @@
 {
   "name": "react-native-meteor-custom",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Full Meteor Client for React Native",
   "main": "src/Meteor.js",
   "scripts": {
@@ -32,6 +32,7 @@
   },
   "homepage": "https://github.com/AndriiUhryn/react-native-meteor#readme",
   "dependencies": {
+    "@react-native-community/async-storage": "1.6.3",
     "@react-native-community/netinfo": "4.6.1",
     "base-64": "0.1.0",
     "crypto-js": "3.1.6",
