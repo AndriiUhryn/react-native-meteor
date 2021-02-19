@@ -1,6 +1,6 @@
 {
   "name": "react-native-meteor-custom",
-  "version": "0.0.4",
+  "version": "0.0.6",
   "description": "Full Meteor Client for React Native",
   "main": "src/Meteor.js",
   "scripts": {
@@ -57,7 +57,7 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*",
-    "@react-native-community/async-storage": "*",
+    "@react-native-async-storage/async-storage": "*",
     "@react-native-community/netinfo": "*"
   }
 }
